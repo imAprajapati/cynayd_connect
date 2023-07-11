@@ -341,10 +341,9 @@
 #join-btn{
   background-color: #845695;
   font-size: 18px;
-  padding: 25px 50px;
+  padding: 10px 25px;
   border: none;
   color:#fff;
-
   position: fixed;
   bottom: 1rem;
   border-radius: 8px;
